@@ -52,17 +52,20 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in:  
 
-    Core:
+    <mark>Core</mark>
+
       Incident Response, Penetration Testing, Vulnerability Scanning, Vulnerability Remediation, Cross-Team 
                 Collaboration, Cybersecurity Risk Management, Risk Mitigation, Project Management, Process Documentation,  
-                System Administration, Training
+                System Administration.
 
-    Technical:
+    <mark>Technical</mark>
+
       Java, Python, Security Tools, Risk Management, MS Exchange & Active Directory, PowerShell, Service Now, MS 
-                            Azure, Cisco (VPN, WebEx, VoIP), Office 365
+                            Azure, Cisco (VPN, WebEx, VoIP), Office 365.
 
-    Platforms: 
-      Microsoft Windows, Windows Server 2016 & 2019, Kali, Ubuntu, Parrot, Red Hat Enterprise Linux
+    <mark>Platforms</mark>
+
+      Microsoft Windows, Windows Server 2016 & 2019, Kali, Ubuntu, Parrot, Red Hat Enterprise Linux.
 
 
 
@@ -108,15 +111,17 @@ content:
             #Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
         description: | # this will include new lines to allow paragraphs
 
-            - Lead a quarterly penetration testing program covering 500+ internal, cloud and external targets, identifying vulnerabilities and coordinating remediation efforts across teams.
-            - Administrator for Knowbe4, Zscaler (ZIA, ZPA, Deception) and CrowdStrike, co-administrator for Palo Alto firewalls and Cisco Meraki.
-            - Lead key security implementations including Zscaler, Extrahop and other cloud-based tools.
-            - Spearheaded phishing awareness training and employee education initiatives to enhance organizational security posture.
-            - Built and currently manage company-wide programs for vulnerability detection, phishing detection and penetration testing.
-            - Implemented and enforced network security measures and policies, ensuring compliance with industry standards (NIST and FINRA) and driving continuous improvement in security practices.
-            - Contributed to the development and implementation of a SIEM system for efficient alert management and enhanced threat detection.
-            - Act as the final escalation point for complex technical and security issues, ensuring resolution when all other options have been exhausted.
+              - Lead a quarterly penetration testing program covering 500+ internal, cloud and external targets, identifying vulnerabilities and coordinating remediation efforts across teams.
+              - Administrator for Knowbe4, Zscaler (ZIA, ZPA, Deception) and CrowdStrike, co-administrator for Palo Alto firewalls and Cisco Meraki.
+              - Lead key security implementations including Zscaler, Extrahop and other cloud-based tools.
+              - Spearheaded phishing awareness training and employee education initiatives to enhance organizational security posture.
+              - Built and currently manage company-wide programs for vulnerability detection, phishing detection and penetration testing.
+              - Implemented and enforced network security measures and policies, ensuring compliance with industry standards (NIST and FINRA) and driving continuous improvement in security practices.
+              - Contributed to the development and implementation of a SIEM system for efficient alert management and enhanced threat detection.
+              - Act as the final escalation point for complex technical and security issues, ensuring resolution when all other options have been exhausted.
 
+
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: United States Air Force Reserve
@@ -130,14 +135,12 @@ content:
             #Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
         description: | # this will include new lines to allow paragraphs
 
-            - Lead a quarterly penetration testing program covering 500+ internal, cloud and external targets, identifying vulnerabilities and coordinating remediation efforts across teams.
-            - Administrator for Knowbe4, Zscaler (ZIA, ZPA, Deception) and CrowdStrike, co-administrator for Palo Alto firewalls and Cisco Meraki.
-            - Lead key security implementations including Zscaler, Extrahop and other cloud-based tools.
-            - Spearheaded phishing awareness training and employee education initiatives to enhance organizational security posture.
-            - Built and currently manage company-wide programs for vulnerability detection, phishing detection and penetration testing.
-            - Implemented and enforced network security measures and policies, ensuring compliance with industry standards (NIST and FINRA) and driving continuous improvement in security practices.
-            - Contributed to the development and implementation of a SIEM system for efficient alert management and enhanced threat detection.
-            - Act as the final escalation point for complex technical and security issues, ensuring resolution when all other options have been exhausted.
+              - Troubleshot, repaired, and maintained aircraft hydraulic systems, components, and support equipment, ensuring optimal performance and compliance with quality standards.
+              - Assessed and validated work to ensure adherence to internal protocols and high-quality maintenance practices.
+
+
+              - Awarded Airman of the Quarter, 4th Quarter 2021, for outstanding performance and leadership during critical projects.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
