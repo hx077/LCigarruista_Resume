@@ -50,35 +50,48 @@ about_profile_image: images/mugshot1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Cybersecurity professional with 15 years of experience and a Secret security clearance with expertise in penetration testing, incident response, vulnerability assessments, security audits, and automation (Python). Highly skilled in risk identification, mitigation strategies, and enhancing operational efficiency through innovative solutions. Fluent in English and Spanish with strong communication, leadership, and teamwork skills.
   
-  I am most skilled in:
-  <mark>Platforms</mark> Microsoft Windows, Windows Server 2016 & 2019, Kali, Ubuntu, Parrot, Red Hat Enterprise Linux
-  <mark>Technical</mark> Java, Python, Security Tools, Risk Management, MS Exchange & Active Directory, PowerShell, Service Now, MS 
+I am most skilled in:  | 
+Platforms: | 
+   Microsoft Windows, Windows Server 2016 & 2019, Kali, Ubuntu, Parrot, Red Hat Enterprise Linux
+Technical: |
+   Java, Python, Security Tools, Risk Management, MS Exchange & Active Directory, PowerShell, Service Now, MS 
                         Azure, Cisco (VPN, WebEx, VoIP), Office 365
-  <mark>Core</mark> Incident Response, Penetration Testing, Vulnerability Scanning, Vulnerability Remediation, Cross-Team 
+Core: |
+   Incident Response, Penetration Testing, Vulnerability Scanning, Vulnerability Remediation, Cross-Team 
              Collaboration, Cybersecurity Risk Management, Risk Mitigation, Project Management, Process Documentation,  
              System Administration, Training
 
  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Cybersecurity Engineer
+        quote: >
+          Lincoln Investment Planning
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        content: | # this will include new lines to allow paragraphs
+      - Lead a quarterly penetration testing program covering 500+ internal, cloud and external targets, identifying vulnerabilities and coordinating remediation efforts across teams.
+      - Administrator for Knowbe4, Zscaler (ZIA, ZPA, Deception) and CrowdStrike, co-administrator for Palo Alto firewalls and Cisco Meraki.
+      - Lead key security implementations including Zscaler, Extrahop and other cloud-based tools.
+      - Spearheaded phishing awareness training and employee education initiatives to enhance organizational security posture.
+      - Built and currently manage company-wide programs for vulnerability detection, phishing detection and penetration testing.
+      - Implemented and enforced network security measures and policies, ensuring compliance with industry standards (NIST and FINRA) and driving continuous improvement in security practices.
+      - Contributed to the development and implementation of a SIEM system for efficient alert management and enhanced threat detection.
+      - Act as the final escalation point for complex technical and security issues, ensuring resolution when all other options have been exhausted.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
