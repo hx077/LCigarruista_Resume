@@ -195,7 +195,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Member: Alpha Sigma Lambda Tau, Upsilon Pi Epsilon, Sigma Alpha Pi
 
-
+    title: #Education # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Rowan College at Burlington County
@@ -207,20 +208,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-          - Raices Cyber – Global E-Chapter
-              Volunteer – Director
+          - Raices Cyber| Global E-Chapter Volunteer – Director
 
-            Try Hack Me 
-              Top 15% global ranking
+          - Try Hack Me | Top 15% global ranking
 
-            Women’s Society of CyberJutsu
-              Active member, Volunteer
+          - Women’s Society of CyberJutsu | Active member, Volunteer
 
-            Latinas in Cybersecurity
-              Active member
+          - Latinas in Cybersecurity | Active member
 
-            Women in Cyber
-              Active member
+          - Women in Cyber | Active member
 
 
 
