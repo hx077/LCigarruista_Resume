@@ -244,17 +244,20 @@ content:
 
 
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-          - Raices Cyber| Global E-Chapter Volunteer – Director
+    layout: list
+    content: # this will include new lines to allow paragraphs
+      - layout: left # Type of content section (list/text)
+        description: |
 
-          - Try Hack Me | Top 15% global ranking
+          - Raices Cyber: Global E-Chapter Volunteer – Director
 
-          - Women’s Society of CyberJutsu | Active member, Volunteer
+          - Try Hack Me: Top 15% global ranking
 
-          - Latinas in Cybersecurity | Active member
+          - Women’s Society of CyberJutsu: Active member, Volunteer
 
-          - Women in Cyber | Active member
+          - Latinas in Cybersecurity: Active member
+
+          - Women in Cyber: Active member
 
 
 
