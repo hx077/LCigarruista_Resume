@@ -103,17 +103,24 @@ content:
         description: | # this will include new lines to allow paragraphs
 
               - Lead a quarterly penetration testing program covering 500+ internal, cloud and external targets, identifying vulnerabilities and coordinating remediation efforts across teams.
+
               - Administrator for Knowbe4, Zscaler (ZIA, ZPA, Deception) and CrowdStrike, co-administrator for Palo Alto firewalls and Cisco Meraki.
+
               - Lead key security implementations including Zscaler, Extrahop and other cloud-based tools.
+
               - Spearheaded phishing awareness training and employee education initiatives to enhance organizational security posture.
+
               - Built and currently manage company-wide programs for vulnerability detection, phishing detection and penetration testing.
+
               - Implemented and enforced network security measures and policies, ensuring compliance with industry standards (NIST and FINRA) and driving continuous improvement in security practices.
+
               - Contributed to the development and implementation of a SIEM system for efficient alert management and enhanced threat detection.
+
               - Act as the final escalation point for complex technical and security issues, ensuring resolution when all other options have been exhausted.
 
-  - title: #Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
+
+
       - layout: left
         title: United States Air Force Reserve
         #link: boringcompany.com
@@ -127,16 +134,17 @@ content:
         description: | # this will include new lines to allow paragraphs
 
               - Troubleshot, repaired, and maintained aircraft hydraulic systems, components, and support equipment, ensuring optimal performance and compliance with quality standards.
+
               - Assessed and validated work to ensure adherence to internal protocols and high-quality maintenance practices.
+
 
 
                 
                 Awarded Airman of the Quarter, 4th Quarter 2021, for outstanding performance and leadership during critical projects.
 
 
-  - title: #Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
+
       - layout: left
         title: Sonepar USA 
         #link: boringcompany.com
@@ -149,16 +157,20 @@ content:
             #Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
         description: | # this will include new lines to allow paragraphs
 
-              •	Performed technical lead cybersecurity functions, specializing in incident response, threat hunting, and alert investigation, providing expert guidance to users and IT Team.
-              •	Proactively identified and neutralized cybersecurity threats, including network vulnerabilities and malware, safeguarding system integrity and data protection.
-              •	Developed incident response documentation best practices, detailing all phases from detection to recovery, and coordinated cross-functional teams to minimize damage and prevent recurrence.
-              •	Engineered and deployed Python scripts to automate essential security tasks, improving efficiency and response times by 20%.
-              •	Provided risk assessments, developed security plans, and implemented control measures to minimize exposure to cyber-attacks and ensure rapid recovery from incidents. 
+            -	Performed technical lead cybersecurity functions, specializing in incident response, threat hunting, and alert investigation, providing expert guidance to users and IT Team.
+
+            -	Proactively identified and neutralized cybersecurity threats, including network vulnerabilities and malware, safeguarding system integrity and data protection.
+
+            -	Developed incident response documentation best practices, detailing all phases from detection to recovery, and coordinated cross-functional teams to minimize damage and prevent recurrence.
+
+            -	Engineered and deployed Python scripts to automate essential security tasks, improving efficiency and response times by 20%.
+
+            -	Provided risk assessments, developed security plans, and implemented control measures to minimize exposure to cyber-attacks and ensure rapid recovery from incidents. 
 
 
-  - title: #Work Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
+
+
       - layout: left
         title: Sonepar USA 
         #link: boringcompany.com
@@ -171,38 +183,64 @@ content:
             #Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
         description: | # this will include new lines to allow paragraphs
 
-                •	Performed system administration duties, ensuring proper deployment and maintenance across multiple platforms like MS Exchange, Active Directory, Office 365, MS Azure, and Citrix. 
-                •	Played a key role in critical offsite and onsite migrations, including Exchange-to-cloud and MS Office 2007-to-2016 upgrades, impacting 8K+ end users and 10K+ computers.
-                •	Created and launched training materials and knowledge base documents boosting team operational efficiency, reducing resolution times.
-                •	Effectively launched, supported and troubleshooted a successful MS MFA project for 13K users nationwide.
-                •	Provided technical support, resolving 400+ calls and 380+ tickets monthly while troubleshooting hardware and software issues.
-                •	Managed the support queue, delegating tickets and tasks to the technical team to optimize efficiency.
+              -	Performed system administration duties, ensuring proper deployment and maintenance across multiple platforms like MS Exchange, Active Directory, Office 365, MS Azure, and Citrix. 
 
+              -	Played a key role in critical offsite and onsite migrations, including Exchange-to-cloud and MS Office 2007-to-2016 upgrades, impacting 8K+ end users and 10K+ computers.
 
+              -	Created and launched training materials and knowledge base documents boosting team operational efficiency, reducing resolution times.
+
+              -	Effectively launched, supported and troubleshooted a successful MS MFA project for 13K users nationwide.
+
+              -	Provided technical support, resolving 400+ calls and 380+ tickets monthly while troubleshooting hardware and software issues.
+
+              -	Managed the support queue, delegating tickets and tasks to the technical team to optimize efficiency.
 
 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of Maryland Global Campus
-        caption: Bachelor of Science in Computer Science
-        sub_title: Minor - Cybersecurity
-        sub_title: Cum Laude
+      - layout: center
+        title: University of Maryland Global Campus 
+        sub_title: Bachelor of Science in Computer Science, Minor - Cybersecurity
+        description: | 
+          Cum Laude
+              
+          Member - Alpha Sigma Lambda Tau, Upsilon Pi Epsilon, Sigma Alpha Pi
+        #description: |
+        #sub_title: Cum Laude
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          Member: Alpha Sigma Lambda Tau, Upsilon Pi Epsilon, Sigma Alpha Pi
+        #description: | # this will include new lines to allow paragraphs
 
-    title: #Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
+
+
+      - layout: center # Type of content section (list/text)
         title: Rowan College at Burlington County
-        caption: Associate of Science
-            # quote: >
-            #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        sub_title: Associate of Science
+                # quote: >
+                #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:      
+      - layout: center # Type of content section (list/text)
+        #title: 
+        #description: |
+        description: |
+            - CompTIA A+
+
+            - CompTIA Sec+ CE
+
+            - SANS GSOC (GIAC Security Operations Center
+
+            - Rapid7 InsightIDR Specialist
+
+            - ISC2 CISSP (pending)
+
+            - MS AZ-500 (pending, August 2025)
+
+
 
 
   - title: A Little More About Me
