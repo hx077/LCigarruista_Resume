@@ -130,7 +130,8 @@ content:
               - Assessed and validated work to ensure adherence to internal protocols and high-quality maintenance practices.
 
 
-              - Awarded Airman of the Quarter, 4th Quarter 2021, for outstanding performance and leadership during critical projects.
+                
+                Awarded Airman of the Quarter, 4th Quarter 2021, for outstanding performance and leadership during critical projects.
 
 
   - title: #Work Experience # Title for the section
@@ -188,17 +189,17 @@ content:
         title: University of Maryland Global Campus
         caption: Bachelor of Science in Computer Science
         sub_title: Minor - Cybersecurity
-        sub_title2: Cum Laude
+        sub_title: Cum Laude
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Member: Alpha Sigma Lambda Tau, Upsilon Pi Epsilon, Sigma Alpha Pi
 
 
-        content:
-          - layout: left
-            title: Rowan College at Burlington County
-            caption: Associate of Science
+    content:
+      - layout: left
+        title: Rowan College at Burlington County
+        caption: Associate of Science
             # quote: >
             #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
 
@@ -206,14 +207,23 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+          - Raices Cyber – Global E-Chapter
+              Volunteer – Director
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+            Try Hack Me 
+              Top 15% global ranking
+
+            Women’s Society of CyberJutsu
+              Active member, Volunteer
+
+            Latinas in Cybersecurity
+              Active member
+
+            Women in Cyber
+              Active member
+
+
+
 
 # Footer
 footer_show_references: true
